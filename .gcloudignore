@@ -1,0 +1,26 @@
+.gcloudignore
+.git
+.gitignore
+venv/
+bin/
+lib/
+share/
+include/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+.venv
+pip-wheel-metadata/
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store
+# Evita subir os dados e modelos se forem muito grandes (opcional, dependendo do seu caso)
+# data/
+# models/
